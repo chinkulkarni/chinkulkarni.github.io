@@ -14,6 +14,12 @@ University of Utah<br>
 
 <p></p>
 
+# News
+
+I am interning with the [Database](https://www.microsoft.com/en-us/research/group/database/?from=http%3A%2F%2Fresearch.microsoft.com%2Fdb%2F)
+group at [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2F)
+during the Summer of 2018. [Badrish Chandramouli](http://badrish.net/) is my mentor.
+
 # About Me
 
 I am a second year Ph.D student advised by [Prof. Ryan Stutsman](http://rstutsman.github.io/) at
@@ -25,3 +31,9 @@ Distributed Systems, Cloud Computing, and Operating Systems.
 1. **Chinmay Kulkarni**, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    [Rocksteady: Fast Migration for Low-latency In-memory Storage.](https://dl.acm.org/authorize?N659115)
    In *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, SOSP'17.
+
+# Invited Articles
+
+1. **Chinmay Kulkarni**, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
+   [Beyond Simple Request Processing with RAMCloud.](http://sites.computer.org/debull/A17mar/p62.pdf)
+   IEEE Data Engineering Bulletin, March 2017.
