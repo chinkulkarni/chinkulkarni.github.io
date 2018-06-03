@@ -1,7 +1,18 @@
 ---
 layout: page
-title:
 ---
+
+<div style="width: 100%; display: inline-block;">
+<img src="{{ site.baseurl }}/public/chinmay-kulkarni.jpg" alt="Headshot" width="25%" style="float: left;"/>
+<div style="float: left; padding-left: 20px;">
+<span style="font-size: 150%;">Chinmay Kulkarni</span><br>
+Ph.D Student<br>
+University of Utah<br>
+<a href="mailto:chinmayk@cs.utah.edu">chinmayk@cs.utah.edu</a>
+</div>
+</div>
+
+<p></p>
 
 # About Me
 
