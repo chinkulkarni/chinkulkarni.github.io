@@ -29,13 +29,16 @@ Distributed Systems, Cloud Computing, and Operating Systems.
 # Refereed Conference Publications
 
 1. **Chinmay Kulkarni**, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
-   [Rocksteady: Fast Migration for Low-latency In-memory Storage.](https://dl.acm.org/authorize?N659115)
-   In *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, SOSP'17.
-   [slides](https://chinkulkarni.github.io/public/rocksteady.pdf) [talk](https://www.youtube.com/watch?v=FW8AkWee6Qo)
-   [code](https://github.com/utah-scs/RAMCloud/tree/rocksteady-sosp2017)
+   Rocksteady: Fast Migration for Low-latency In-memory Storage.
+   In *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, SOSP'17.<br>
+   [[paper](https://dl.acm.org/authorize?N659115)]
+   [[slides](https://chinkulkarni.github.io/public/rocksteady.pdf)]
+   [[talk](https://www.youtube.com/watch?v=FW8AkWee6Qo)]
+   [[code](https://github.com/utah-scs/RAMCloud/tree/rocksteady-sosp2017)]
 
 # Invited Articles
 
 1. **Chinmay Kulkarni**, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
-   [Beyond Simple Request Processing with RAMCloud.](http://sites.computer.org/debull/A17mar/p62.pdf)
-   IEEE Data Engineering Bulletin, March 2017.
+   Beyond Simple Request Processing with RAMCloud.
+   IEEE Data Engineering Bulletin, March 2017.<br>
+   [[article](http://sites.computer.org/debull/A17mar/p62.pdf)]
