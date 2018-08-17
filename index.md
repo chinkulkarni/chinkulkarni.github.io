@@ -31,12 +31,12 @@ Distributed Systems, Cloud Computing, and Operating Systems.
 # Refereed Conference Publications
 
 1. **Chinmay Kulkarni**, Sara Adamson, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
-   Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage
-   In *13th USENIX Symposium on Operating Systems Design and Implementation*, OSDI'18.<br>
+   Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
+   In *13th USENIX Symposium on Operating Systems Design and Implementation*, **OSDI'18**.<br>
 
 2. **Chinmay Kulkarni**, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Rocksteady: Fast Migration for Low-latency In-memory Storage.
-   In *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, SOSP'17.<br>
+   In *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, **SOSP'17**.<br>
    [[paper](https://dl.acm.org/authorize?N659115)]
    [[slides](https://chinkulkarni.github.io/public/rocksteady.pdf)]
    [[talk](https://www.youtube.com/watch?v=FW8AkWee6Qo)]
