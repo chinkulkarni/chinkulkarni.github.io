@@ -18,9 +18,9 @@ University of Utah<br>
 
 [Paper](https://www.usenix.org/conference/osdi18/presentation/kulkarni) accepted at OSDI 2018.
 
-I am interning with the [Database](https://www.microsoft.com/en-us/research/group/database/?from=http%3A%2F%2Fresearch.microsoft.com%2Fdb%2F)
+I interned with the [Database](https://www.microsoft.com/en-us/research/group/database/?from=http%3A%2F%2Fresearch.microsoft.com%2Fdb%2F)
 group at [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2F)
-during the Summer of 2018. [Badrish Chandramouli](http://badrish.net/) is my mentor.
+during the Summer of 2018. [Badrish Chandramouli](http://badrish.net/) was my mentor.
 
 # About Me
 
