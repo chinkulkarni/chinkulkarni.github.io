@@ -30,7 +30,7 @@ Distributed Systems, Cloud Computing, and Operating Systems.
 
 # Refereed Conference Publications
 
-1. **Chinmay Kulkarni**, Sara Adamson, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
+1. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
    In *13th USENIX Symposium on Operating Systems Design and Implementation*, **OSDI'18**.<br>
 
