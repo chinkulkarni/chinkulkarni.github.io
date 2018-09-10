@@ -33,6 +33,7 @@ Distributed Systems, Cloud Computing, and Operating Systems.
 1. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
    In *13th USENIX Symposium on Operating Systems Design and Implementation*, **OSDI'18**.<br>
+   [[code](https://github.com/utah-scs/Sandstorm)]
 
 2. **Chinmay Kulkarni**, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Rocksteady: Fast Migration for Low-latency In-memory Storage.
