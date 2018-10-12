@@ -24,7 +24,7 @@ during the Summer of 2018. [Badrish Chandramouli](http://badrish.net/) was my me
 
 # About Me
 
-I am a second year Ph.D student advised by [Prof. Ryan Stutsman](http://rstutsman.github.io/) at
+I am a third year Ph.D student advised by [Prof. Ryan Stutsman](http://rstutsman.github.io/) at
 the [School of Computing, University of Utah](http://www.cs.utah.edu/). I am broadly interested in
 Distributed Systems, Cloud Computing, and Operating Systems.
 
@@ -33,6 +33,8 @@ Distributed Systems, Cloud Computing, and Operating Systems.
 1. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
    In *13th USENIX Symposium on Operating Systems Design and Implementation*, **OSDI'18**.<br>
+   [[paper](https://chinkulkarni.github.io/public/osdi18-kulkarni.pdf)]
+   [[slides](https://chinkulkarni.github.io/public/splinter.pdf)]
    [[code](https://github.com/utah-scs/Sandstorm)]
 
 2. **Chinmay Kulkarni**, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
