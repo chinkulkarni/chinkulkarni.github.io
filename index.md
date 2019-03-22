@@ -14,19 +14,15 @@ University of Utah<br>
 
 <p></p>
 
-# News
-
-[Paper](https://www.usenix.org/conference/osdi18/presentation/kulkarni) accepted at OSDI 2018.
-
-I interned with the [Database](https://www.microsoft.com/en-us/research/group/database/?from=http%3A%2F%2Fresearch.microsoft.com%2Fdb%2F)
-group at [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2F)
-during the Summer of 2018. [Badrish Chandramouli](http://badrish.net/) was my mentor.
-
 # About Me
 
 I am a third year Ph.D student advised by [Prof. Ryan Stutsman](http://rstutsman.github.io/) at
 the [School of Computing, University of Utah](http://www.cs.utah.edu/). I am broadly interested in
 Distributed Systems, Cloud Computing, and Operating Systems.
+
+I interned with the [Database](https://www.microsoft.com/en-us/research/group/database/?from=http%3A%2F%2Fresearch.microsoft.com%2Fdb%2F)
+group at [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2F)
+during the Summer of 2018. [Badrish Chandramouli](http://badrish.net/) was my mentor.
 
 # Refereed Conference Publications
 
@@ -35,6 +31,7 @@ Distributed Systems, Cloud Computing, and Operating Systems.
    In *13th USENIX Symposium on Operating Systems Design and Implementation*, **OSDI'18**.<br>
    [[paper](https://chinkulkarni.github.io/public/osdi18-kulkarni.pdf)]
    [[slides](https://chinkulkarni.github.io/public/splinter.pdf)]
+   [[talk](https://www.usenix.org/conference/osdi18/presentation/kulkarni)]
    [[code](https://github.com/utah-scs/Sandstorm)]
 
 2. **Chinmay Kulkarni**, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
