@@ -16,18 +16,21 @@ University of Utah<br>
 
 # About Me
 
-I have won a [Google Ph.D fellowship](http://www.cs.utah.edu/recipients-of-the-2019-phd-google-fellowship/)
+I have won a [Google PhD fellowship](http://www.cs.utah.edu/recipients-of-the-2019-phd-google-fellowship/)
 in Systems and Networking for 2019.
 
-I am a third year Ph.D student advised by [Prof. Ryan Stutsman](http://rstutsman.github.io/) at
-the [School of Computing, University of Utah](http://www.cs.utah.edu/). I am broadly interested in
-Distributed Systems, Cloud Computing, and Operating Systems.
+I will intern at [VMware Research, Palo Alto](https://research.vmware.com/) during the summer of 2019.
+[Gerd Zellweger](https://www.linkedin.com/in/gerdzellweger) will be my mentor.
+
+I am a third year PhD student advised by [Ryan Stutsman](http://rstutsman.github.io/) at
+the [University of Utah](http://www.cs.utah.edu/). I am broadly interested in
+Distributed Systems.
 
 I interned with the [Database](https://www.microsoft.com/en-us/research/group/database/?from=http%3A%2F%2Fresearch.microsoft.com%2Fdb%2F)
 group at [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2F)
-during the Summer of 2018. [Badrish Chandramouli](http://badrish.net/) was my mentor.
+during the summer of 2018. [Badrish Chandramouli](http://badrish.net/) was my mentor.
 
-# Refereed Conference Publications
+# Publications
 
 1. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
@@ -45,9 +48,7 @@ during the Summer of 2018. [Badrish Chandramouli](http://badrish.net/) was my me
    [[talk](https://www.youtube.com/watch?v=FW8AkWee6Qo)]
    [[code](https://github.com/utah-scs/RAMCloud/tree/rocksteady-sosp2017)]
 
-# Invited Articles
-
-1. **Chinmay Kulkarni**, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
+3. **Chinmay Kulkarni**, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
    Beyond Simple Request Processing with RAMCloud.
    IEEE Data Engineering Bulletin, March 2017.<br>
    [[article](http://sites.computer.org/debull/A17mar/p62.pdf)]
