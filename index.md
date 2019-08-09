@@ -16,19 +16,12 @@ University of Utah<br>
 
 # About Me
 
-I have won a [Google PhD fellowship](http://www.cs.utah.edu/recipients-of-the-2019-phd-google-fellowship/)
-in Systems and Networking for 2019.
+I am a fourth year PhD student advised by [Ryan Stutsman](http://rstutsman.github.io/) at
+the [University of Utah](http://www.cs.utah.edu/). I enjoy designing, building, and evaluating large scale systems.
 
-I will intern at [VMware Research, Palo Alto](https://research.vmware.com/) during the summer of 2019.
-[Gerd Zellweger](https://www.linkedin.com/in/gerdzellweger) will be my mentor.
+In the past I have interned with [Gerd Zellweger](https://www.linkedin.com/in/gerdzellweger) at [VMware Research](https://research.vmware.com/) (Palo Alto, summer 2019), and with [Badrish Chandramouli](http://badrish.net/) at [Microsoft Research](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2F) (Redmond, summer 2018).
 
-I am a third year PhD student advised by [Ryan Stutsman](http://rstutsman.github.io/) at
-the [University of Utah](http://www.cs.utah.edu/). I am broadly interested in
-Distributed Systems.
-
-I interned with the [Database](https://www.microsoft.com/en-us/research/group/database/?from=http%3A%2F%2Fresearch.microsoft.com%2Fdb%2F)
-group at [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2F)
-during the summer of 2018. [Badrish Chandramouli](http://badrish.net/) was my mentor.
+I am generously supported by a [Google PhD fellowship](http://www.cs.utah.edu/recipients-of-the-2019-phd-google-fellowship/).
 
 # Publications
 
