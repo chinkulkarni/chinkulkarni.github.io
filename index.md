@@ -21,7 +21,7 @@ the [University of Utah](http://www.cs.utah.edu/). I enjoy designing, building, 
 
 In the past I have interned with [Gerd Zellweger](https://www.linkedin.com/in/gerdzellweger) at [VMware Research](https://research.vmware.com/) and with [Badrish Chandramouli](http://badrish.net/) at [Microsoft Research](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2F).
 
-I am generously supported by a [Google PhD fellowship](http://www.cs.utah.edu/recipients-of-the-2019-phd-google-fellowship/).
+I am generously supported by a [Google PhD fellowship](https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
 
 # Publications
 
