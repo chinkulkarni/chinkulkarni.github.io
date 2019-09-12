@@ -23,7 +23,7 @@ In the past I have interned with [Gerd Zellweger](https://www.linkedin.com/in/ge
 
 I am generously supported by a [Google PhD fellowship](https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
 
-# Publications
+# Selected Publications
 
 1. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
@@ -40,8 +40,3 @@ I am generously supported by a [Google PhD fellowship](https://ai.googleblog.com
    [[slides](https://chinkulkarni.github.io/public/rocksteady.pdf)]
    [[talk](https://www.youtube.com/watch?v=FW8AkWee6Qo)]
    [[code](https://github.com/utah-scs/RAMCloud/tree/rocksteady-sosp2017)]
-
-3. **Chinmay Kulkarni**, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
-   Beyond Simple Request Processing with RAMCloud.
-   IEEE Data Engineering Bulletin, March 2017.<br>
-   [[article](http://sites.computer.org/debull/A17mar/p62.pdf)]
