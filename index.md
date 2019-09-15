@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div style="width: 100%; display: inline-block;">
-<img src="{{ site.baseurl }}/public/chinmay_osdi.jpg" alt="Headshot" width="25%" style="float: left;"/>
+<img src="{{ site.baseurl }}/public/02BDF0E1-58FF-4ABF-BCCE-3301084B362B.jpeg" alt="Headshot" width="25%" style="float: left;"/>
 <div style="float: left; padding-left: 20px;">
 <span style="font-size: 150%;">Chinmay Kulkarni</span><br>
 Ph.D Student<br>
