@@ -25,9 +25,14 @@ Previously, I built [Splinter](http://utah.systems/projects/kulkarni_splinter), 
 
 I am generously supported by a [Google PhD fellowship](https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html), mentored by [Atul Adya](https://ai.google/research/people/AtulAdya). I have interned at [VMware Research](https://research.vmware.com/) and [Microsoft Research](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2F).
 
-# Selected Publications
+# Publications
 
-1. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
+1. **Chinmay Kulkarni**.
+   Scaling an Operating System to Many Cores Using a System Call Log.
+   In *Second ACM Student Research Competition at SOSP 2019*, **SOSP'19 SRC**.<br>
+   [[poster](https://chinkulkarni.github.io/public/bespin-sosp.pdf)]
+
+2. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
    In *13th USENIX Symposium on Operating Systems Design and Implementation*, **OSDI'18**.<br>
    [[paper](https://chinkulkarni.github.io/public/osdi18-kulkarni.pdf)]
@@ -35,10 +40,15 @@ I am generously supported by a [Google PhD fellowship](https://ai.googleblog.com
    [[talk](https://www.usenix.org/conference/osdi18/presentation/kulkarni)]
    [[code](https://github.com/utah-scs/Sandstorm)]
 
-2. **Chinmay Kulkarni**, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
+3. **Chinmay Kulkarni**, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Rocksteady: Fast Migration for Low-latency In-memory Storage.
    In *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, **SOSP'17**.<br>
    [[paper](https://dl.acm.org/authorize?N659115)]
    [[slides](https://chinkulkarni.github.io/public/rocksteady.pdf)]
    [[talk](https://www.youtube.com/watch?v=FW8AkWee6Qo)]
    [[code](https://github.com/utah-scs/RAMCloud/tree/rocksteady-sosp2017)]
+
+4. **Chinmay Kulkarni**, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
+   Beyond Simple Request Processing with RAMCloud.
+   In *Bulletin of the IEEE Computer Society Technical Committee on Data Engineering*, **IEEE DEB 40(1)**.<br>
+   [[article](https://chinkulkarni.github.io/public/deb-2017.pdf)]
