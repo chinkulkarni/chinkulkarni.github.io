@@ -14,7 +14,7 @@ University of Utah<br>
 
 <p></p>
 
-# About Me
+## About Me
 
 I am a fourth year PhD student advised by [Ryan Stutsman](http://rstutsman.github.io/) at
 the [University of Utah](http://www.cs.utah.edu/). I enjoy designing, building, and evaluating large scale systems.
@@ -25,7 +25,7 @@ Previously, I built [Splinter](http://utah.systems/projects/kulkarni_splinter), 
 
 I am generously supported by a [Google PhD fellowship](https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html), mentored by [Atul Adya](https://ai.google/research/people/AtulAdya). I have interned at [VMware Research](https://research.vmware.com/) and [Microsoft Research](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2F).
 
-# Conference Papers
+## Conference Papers
 
 1. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
@@ -43,14 +43,14 @@ I am generously supported by a [Google PhD fellowship](https://ai.googleblog.com
    [[talk](https://www.youtube.com/watch?v=FW8AkWee6Qo)]
    [[code](https://github.com/utah-scs/RAMCloud/tree/rocksteady-sosp2017)]
 
-# Invited Articles
+## Invited Articles
 
 1. **Chinmay Kulkarni**, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
    Beyond Simple Request Processing with RAMCloud.
    In *Bulletin of the IEEE Computer Society Technical Committee on Data Engineering*,<br> **IEEE DEB 40(1)**.<br>
    [[article](https://chinkulkarni.github.io/public/deb-2017.pdf)]
 
-# Workshops and Posters
+## Workshops and Posters
 
 1. **Chinmay Kulkarni**.
    Scaling an Operating System to Many Cores Using a System Call Log.
