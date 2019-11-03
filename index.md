@@ -8,8 +8,8 @@ layout: page
 <span style="font-size: 150%;">Chinmay Kulkarni</span><br>
 Ph.D Student<br>
 University of Utah<br>
-<a href="mailto:chinmayk@cs.utah.edu">chinmayk@cs.utah.edu</a>
-[Short Resume](https://chinkulkarni.github.io/public/chinmay_cv_research.pdf)
+<a href="mailto:chinmayk@cs.utah.edu">chinmayk@cs.utah.edu</a><br>
+<a href="https://chinkulkarni.github.io/public/chinmay_cv_research.pdf">Short Resume</a>
 </div>
 </div>
 
