@@ -20,7 +20,10 @@ University of Utah<br>
 I am a fourth year PhD student advised by [Ryan Stutsman](http://rstutsman.github.io/) at
 the [University of Utah](http://www.cs.utah.edu/). I enjoy designing, building, and evaluating large scale systems.
 
-I am currently working with [Badrish Chandramouli](http://badrish.net/) on scaling out the [FASTER](https://microsoft.github.io/FASTER/) key-value store. I also work on an experimental many-core operating system with [Gerd Zellweger](https://www.linkedin.com/in/gerdzellweger) and [Irina Calciu](https://cs.brown.edu/people/irina/).
+I am currently working with [Badrish Chandramouli](http://badrish.net/) on scaling out the
+[FASTER](https://microsoft.github.io/FASTER/) key-value store. I also work on an experimental
+many-core operating system with [Gerd Zellweger](https://www.linkedin.com/in/gerdzellweger)
+and [Irina Calciu](https://cs.brown.edu/people/irina/).
 
 Previously, I built [Splinter](http://utah.systems/projects/kulkarni_splinter), a low-latency key-value store that can be extended with type- and memory-safe extensions at runtime, and [Rocksteady](http://utah.systems/projects/kulkarni_rocksteady), a fast migration protocol for low-latency stores that helps preserve tail latency during reconfiguration. Both projects were in collaboration with [Robert Ricci](http://ricci.io/) at Utah.
 
