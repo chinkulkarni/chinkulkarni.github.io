@@ -21,8 +21,7 @@ I am a fourth year PhD student advised by [Ryan Stutsman](http://rstutsman.githu
 at the [University of Utah](http://www.cs.utah.edu/). I enjoy designing,
 building, and evaluating large scale systems.
 
-I am currently working with [Badrish Chandramouli](http://badrish.net/) on
-scaling out the [FASTER](https://microsoft.github.io/FASTER/) key-value store.
+I am currently working on scaling out the [FASTER](https://microsoft.github.io/FASTER/) key-value store.
 
 I am generously supported by a [Google PhD fellowship](
 https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
