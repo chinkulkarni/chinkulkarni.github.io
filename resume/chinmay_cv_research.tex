@@ -40,22 +40,30 @@
  % \vspace{.05in}
  \begin{tabular}{@{}p{3.25in}p{4in}}
  School of Computing                             & {\it Email:  }  chinmayk@cs.utah.edu \\
- University of Utah                              & {\it Webpage:}  chinkulkarni.github.io \\
- Salt Lake City, Utah 84112, USA                 \\
+ University of Utah                              & {\it GitHub:}   github.com/chinkulkarni \\
+ Salt Lake City, Utah 84112, USA                 & {\it Webpage:}  chinkulkarni.github.io \\
  \end{tabular}
 
-% \section{\sc Interests}
-% Distributed Systems, Cloud Computing, Virtualization, Operating Systems.
+\section{\sc Interests}
+Distributed Systems, Caching, Key-Value Stores, Cloud Computing
 
 \section{\sc Education}
  \begin{tabular}{@{}p{5.5in}p{4in}}
   {\bf \href{http://www.cs.utah.edu/}{University of Utah}} \dotfill Salt Lake City,
   USA
  \end{tabular}
- \\ {\small Doctor of Philosophy in Computer Science, Ongoing}
+ \\ {\small Doctor of Philosophy in Computer Science, Expected Spring/Summer 2021}
  \\ {\small Advised by Prof. Ryan Stutsman}
 
 \section{\sc Publications}
+ \vspace{-2.5pt}
+ \begin{tabular}{@{}p{5.5in}p{4in}}
+ \href{https://arxiv.org/abs/2006.03206}{Achieving High Throughput and
+ Elasticity in a Larger-than-Memory Store} \hfill
+ {\small\bf PREPRINT}\\
+ {\small {\bf Chinmay Kulkarni}, Badrish Chandramouli, and Ryan Stutsman}\\
+ \end{tabular}
+
  \vspace{-2.5pt}
  \begin{tabular}{@{}p{5.5in}p{4in}}
  \href{http://utah.systems/projects/kulkarni\_splinter}{Adaptive
@@ -82,14 +90,14 @@
  Ricci, and Ryan Stutsman}\\
  \end{tabular}
 
-% \vspace{-2.5pt}
-% \begin{tabular}{@{}p{5.5in}p{4in}}
-% \href{http://sites.computer.org/debull/A17mar/p62.pdf}{Beyond Simple
-% Request Processing with RAMCloud} \hfill
-% {\small\bf IEEE DEB 40(1)}\\
-% {\small {\bf Chinmay Kulkarni}, Aniraj Kesavan, Robert Ricci, and Ryan
-% Stutsman}\\
-% \end{tabular}
+ \vspace{-2.5pt}
+ \begin{tabular}{@{}p{5.5in}p{4in}}
+ \href{http://sites.computer.org/debull/A17mar/p62.pdf}{Beyond Simple
+ Request Processing with RAMCloud} \hfill
+ {\small\bf IEEE DEB 40(1)}\\
+ {\small {\bf Chinmay Kulkarni}, Aniraj Kesavan, Robert Ricci, and Ryan
+ Stutsman}\\
+ \end{tabular}
 
 % \begin{tabular}{@{}p{5.5in}p{4in}}
 % {\bf Chinmay Kulkarni} and Purushottam Kulkarni.
@@ -112,92 +120,82 @@
 % \end{tabular}
 % \\ {\small Bachelor of Technology in Electronics and Communication, May 2013}
 
-\section{\sc Research}
-{\bf SoFASTER: Scaling Out the FASTER Key-Value Store}\\
-{\small\em Microsoft Research and University of Utah, May 2018 - Present}\\
+\section{\sc Open Source Software}
 \begin{tabular}{@{}p{5.5in}p{4in}}
-{\small Collaborating with Microsoft Research on scaling out FASTER, a
-key-value store that uses a latch free hash table and a concurrent
-log-structured record
-store to service 160 million updates per second. Challenges include
-maintaining high throughput during scale-up and scale-down operations.}
+{\bf microsoft/FASTER}\\
+{\small https://github.com/microsoft/FASTER}\\
+{\small Contributor (username: \emph{chinkulkarni})} \\
 \end{tabular}
 
 \vspace{-2.5pt}
-{\bf Bespin: Scaling an Operating System to Many Cores}\\
-{\small\em VMware Research and University of Utah, May 2019 - Present}\\
 \begin{tabular}{@{}p{5.5in}p{4in}}
-{\small Collaborating with VMware Research on a many-core operating
-system written in Rust. Our system currently boots on a single core. We
-are now exploring whether we can apply existing log-based, data
-structure replication techniques to achieve good many-core operating
-system scalability.}
+{\bf vmware/node-replication}\\
+{\small Currently under review by VMware's open source team}\\
+{\small Contributor (username: \emph{chinkulkarni})} \\
 \end{tabular}
 
 \vspace{-2.5pt}
-{\bf Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage}\\
-{\small\em University of Utah, November 2017 - November 2018}\\
+\begin{tabular}{@{}p{5.5in}p{4in}}
+{\bf utah-scs/splinter}\\
+{\small https://github.com/utah-scs/splinter}\\
+{\small Contributor (username: \emph{chinkulkarni})} \\
+\end{tabular}
+
+\section{\sc Experience}
+{\bf University of Utah}\\
+{\small\em Research Assistant advised by Ryan Stutsman, 2016 - Present,
+Salt Lake City, USA}\\
 \begin{tabular}{@{}p{5.5in}p{4in}}
 {\small Worked on Splinter, a multi-tenant low-latency store that can
-be extended using type- and memory-safe code written in Rust. Splinter
-can isolate more than 1000 tenants per server while servicing 3.5
-million operations per second with a median latency of 9 microseconds.}
-\end{tabular}
-
-\vspace{-2.5pt}
-{\bf Rocksteady: Fast Migration for Low-latency In-memory Storage}\\
-{\small\em University of Utah, October 2016 - October 2017}\\
-\begin{tabular}{@{}p{5.5in}p{4in}}
-{\small Designed, implemented, and evaluated Rocksteady, a fast and
+be extended using type- and memory-safe code written in Rust. Worked on
+Rocksteady, a fast and
 low impact migration protocol for the RAMCloud in-memory
-key-value store. Rocksteady can migrate 256~GB of data in less
-than six minutes while maintaining a tail latency of less than
-250 microseconds.}
-\end{tabular}
-
-% \vspace{.05in}
-% {\bf Mitigating Extended Busy Waiting in SMP Virtual Machines}\\
-% {\em I.I.T Bombay, India, April 2015 - July 2016}\\
-% \begin{tabular}{@{}p{5.5in}p{4in}}
-% Benchmarked spinlock, mutex, and barrier performance in
-% virtual machines under different cpu overcommitment ratios,
-% and studied the impact of tuning the virtual machine's
-% parallelism and hypervisor scheduler's time slice. Designed
-% and implemented a simple algorithm that improves the
-% streamcluster workload's completion time by 50 seconds
-% (20\%).
-% \end{tabular}
-
-\section{\sc Industry}
-% {\bf Software Development Engineer}\\
-% {\em Cisco Systems, India, August 2013 - December 2013}\\
-% \begin{tabular}{@{}p{5.5in}p{4in}}
-% Worked with the Core switching - Platforming team of the
-% Campus Switching Group at Cisco Systems. Responsibilities
-% primarily included bringing up the management port of the
-% Cisco SUP 10 supervisor. Also involved with the
-% development of the inband, datapath and env components of the
-% Cisco Catalyst 6K series of switches.
-% \end{tabular}
-
-\begin{tabular}{@{}p{5.5in}p{4in}}
-{\bf Google} \dotfill Research Intern, Summer 2020, USA\\
-% {\small Worked on scaling out an experimental operating system, mentored
-% by Gerd Zellweger.}
+key-value store. Continued and completed internship projects.}
 \end{tabular}
 
 \vspace{-2.5pt}
+{\bf Google}\\
+{\small\em Research Intern hosted by Larry Kai, Summer 2020, Sunnyvale, USA}\\
 \begin{tabular}{@{}p{5.5in}p{4in}}
-{\bf VMware} \dotfill Research Intern, Summer 2019, USA\\
-% {\small Worked on scaling out an experimental operating system, mentored
-% by Gerd Zellweger.}
+{\small Working on defining and measuring the availability of Google
+services that use Slicer, a system that auto-shards and load balances
+stateful services. Designing and building a dashboard that Google engineers
+can use to visualize and monitor the availability of their service.}
+\end{tabular}
+
+\newpage
+
+\vspace{-2.5pt}
+{\bf VMware}\\
+{\small\em Research Intern hosted by Gerd Zellweger, Summer 2019, Palo Alto, USA}\\
+\begin{tabular}{@{}p{5.5in}p{4in}}
+{\small Worked on a many-core operating system written in Rust.
+Designed,
+built, tested and evaluated a Rust library that constructs a highly scalable, linearizable,
+concurrent data
+structure from a single threaded implementation as part
+of this effort.}
 \end{tabular}
 
 \vspace{-2.5pt}
+{\bf Microsoft}\\
+{\small\em Research Intern hosted by Badrish Chandramouli, Summer 2018, Redmond, USA}\\
 \begin{tabular}{@{}p{5.5in}p{4in}}
-{\bf Microsoft} \dotfill Research Intern, Summer 2018, USA\\
-% {\small Worked on the FASTER key-value store, mentored by Badrish
-% Chandramouli.}
+{\small Worked on an RPC layer and scale out protocol for FASTER, a
+key-value store that uses a latch free hash table and a concurrent
+log-structured record
+store to service 160 million updates per second. Challenges included
+maintaining high throughput over the network and during scale-out.}
+\end{tabular}
+
+\vspace{-2.5pt}
+{\bf Cisco Systems}\\
+{\small\em Software Development Engineer, Bangalore, India, August 2013 - December 2013}\\
+\begin{tabular}{@{}p{5.5in}p{4in}}
+Worked with the Core switching - Platforming team. Brought up the management port of the
+Cisco SUP 10 supervisor. Also involved with the
+development of the inband, datapath and env components of the
+Cisco Catalyst 6K series of switches.
 \end{tabular}
 
 % \vspace{-2.5pt}
@@ -212,7 +210,8 @@ than six minutes while maintaining a tail latency of less than
 
 \section{\sc Service}
 \begin{tabular}{@{}p{5.5in}p{4in}}
-External Reviewer, {\bf HotCloud'20}\\
+{\bf HotCloud'20}\\
+{\small\em External Reviewer}\\
 \end{tabular}
 
 \section{\sc Awards}
