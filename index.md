@@ -32,6 +32,9 @@ https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
 1. Ankit Bhardwaj, **Chinmay Kulkarni**, and Ryan Stutsman.
    Adaptive Placement for In-memory Storage Functions.
    In *Proceedings of the 2020 USENIX Annual Technical Conference*, **ATC'20**.<br>
+   [[paper](https://chinkulkarni.github.io/public/atc20-bhardwaj.pdf)]
+   [[slides](https://chinkulkarni.github.io/public/atc20-paper545-slides-bhardwaj.pdf)]
+   [[talk](https://www.usenix.org/conference/atc20/presentation/bhardwaj)]
    [[code](https://github.com/utah-scs/Sandstorm)]
 
 2. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
