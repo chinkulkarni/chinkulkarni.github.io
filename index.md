@@ -29,9 +29,13 @@ at [Google](https://about.google).
 I am generously supported by a [Google PhD fellowship](
 https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
 
-## Conference Papers
+## Papers
 
-1. Ankit Bhardwaj, **Chinmay Kulkarni**, and Ryan Stutsman.
+1. **Chinmay Kulkarni**, Badrish Chandramouli, and Ryan Stutsman.
+   Achieving High Throughput and Elasticity in a Larger-than-Memory Store.<br>
+   [[paper](https://chinkulkarni.github.io/public/2006.03206.pdf)]
+
+2. Ankit Bhardwaj, **Chinmay Kulkarni**, and Ryan Stutsman.
    Adaptive Placement for In-memory Storage Functions.
    In *Proceedings of the 2020 USENIX Annual Technical Conference*, **ATC'20**.<br>
    [[paper](https://chinkulkarni.github.io/public/atc20-bhardwaj.pdf)]
@@ -39,7 +43,7 @@ https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
    [[talk](https://www.usenix.org/conference/atc20/presentation/bhardwaj)]
    [[code](https://github.com/utah-scs/Sandstorm)]
 
-2. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
+3. **Chinmay Kulkarni**, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
    In *Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation*, **OSDI'18**.<br>
    [[paper](https://chinkulkarni.github.io/public/osdi18-kulkarni.pdf)]
@@ -47,7 +51,7 @@ https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
    [[talk](https://www.usenix.org/conference/osdi18/presentation/kulkarni)]
    [[code](https://github.com/utah-scs/Sandstorm)]
 
-3. **Chinmay Kulkarni**, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
+4. **Chinmay Kulkarni**, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
    Rocksteady: Fast Migration for Low-latency In-memory Storage.
    In *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, **SOSP'17**.<br>
    [[paper](https://dl.acm.org/authorize?N659115)]
@@ -55,7 +59,7 @@ https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
    [[talk](https://www.youtube.com/watch?v=FW8AkWee6Qo)]
    [[code](https://github.com/utah-scs/RAMCloud/tree/rocksteady-sosp2017)]
 
-## Invited Articles
+## Articles
 
 1. **Chinmay Kulkarni**, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
    Beyond Simple Request Processing with RAMCloud.
