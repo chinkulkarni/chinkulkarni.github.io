@@ -9,7 +9,9 @@ layout: page
 Ph.D Student<br>
 University of Utah<br>
 <a href="mailto:chinmayk@cs.utah.edu">chinmayk@cs.utah.edu</a><br>
-<a href="https://chinkulkarni.github.io/public/chinmay_cv_research.pdf">Short Resume</a>
+<a href="https://github.com/chinkulkarni">[GitHub]</a>
+<a href="https://scholar.google.com/citations?user=4A_MGvMAAAAJ&hl=en">[Google Scholar]</a>
+<a href="https://chinkulkarni.github.io/public/chinmay_cv_research.pdf">[Short Resume]</a>
 </div>
 </div>
 
