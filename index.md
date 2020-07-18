@@ -33,7 +33,7 @@ https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
 
 1. **Chinmay Kulkarni**, Badrish Chandramouli, and Ryan Stutsman.
    Achieving High Throughput and Elasticity in a Larger-than-Memory Store.<br>
-   [[paper](https://chinkulkarni.github.io/public/2006.03206.pdf)]
+   [[paper](https://chinkulkarni.github.io/public/shadowfax.pdf)]
 
 2. Ankit Bhardwaj, **Chinmay Kulkarni**, and Ryan Stutsman.
    Adaptive Placement for In-memory Storage Functions.
