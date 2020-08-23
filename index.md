@@ -10,8 +10,8 @@ Ph.D Student<br>
 University of Utah<br>
 <a href="mailto:chinmayk@cs.utah.edu">chinmayk@cs.utah.edu</a><br>
 <a href="https://github.com/chinkulkarni">[GitHub]</a>
-<a href="https://scholar.google.com/citations?user=4A_MGvMAAAAJ&hl=en">[Google Scholar]</a>
-<a href="https://chinkulkarni.github.io/public/chinmay_cv_research.pdf">[Short Resume]</a>
+<a href="https://scholar.google.com/citations?user=4A_MGvMAAAAJ&hl=en">[Scholar]</a>
+<a href="https://chinkulkarni.github.io/public/chinmay_cv_research.pdf">[Resume]</a>
 </div>
 </div>
 
@@ -19,11 +19,11 @@ University of Utah<br>
 
 ## About Me
 
-I am a fourth year PhD student advised by [Ryan Stutsman](http://rstutsman.github.io/)
+I am a fifth year PhD student advised by [Ryan Stutsman](http://rstutsman.github.io/)
 at the [University of Utah](http://www.cs.utah.edu/). I enjoy designing,
 building, and evaluating large scale systems.
 
-I am currently interning with the [Slicer](https://www.usenix.org/system/files/conference/osdi16/osdi16-adya.pdf) team
+I am also a student researcher with the [Slicer](https://www.usenix.org/system/files/conference/osdi16/osdi16-adya.pdf) team
 at [Google](https://about.google).
 
 I am generously supported by a [Google PhD fellowship](
