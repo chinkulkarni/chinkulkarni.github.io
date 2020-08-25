@@ -32,7 +32,8 @@ https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
 ## Papers
 
 1. **Chinmay Kulkarni**, Badrish Chandramouli, and Ryan Stutsman.
-   Achieving High Throughput and Elasticity in a Larger-than-Memory Store.<br>
+   Achieving High Throughput and Elasticity in a Larger-than-Memory Store,
+   **arXiv:2006.03206v1**.<br>
    [[paper](https://chinkulkarni.github.io/public/shadowfax.pdf)]
    [[code](https://github.com/microsoft/FASTER)]
 
