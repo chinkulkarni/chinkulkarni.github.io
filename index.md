@@ -9,9 +9,9 @@ layout: page
 Ph.D Student<br>
 University of Utah<br>
 <a href="mailto:chinmayk@cs.utah.edu">chinmayk@cs.utah.edu</a><br>
+<a href="https://chinkulkarni.github.io/public/chinmay_cv_research.pdf">[Resume]</a>
 <a href="https://github.com/chinkulkarni">[GitHub]</a>
 <a href="https://scholar.google.com/citations?user=4A_MGvMAAAAJ&hl=en">[Scholar]</a>
-<a href="https://chinkulkarni.github.io/public/chinmay_cv_research.pdf">[Resume]</a>
 </div>
 </div>
 
@@ -34,6 +34,7 @@ https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
 1. **Chinmay Kulkarni**, Badrish Chandramouli, and Ryan Stutsman.
    Achieving High Throughput and Elasticity in a Larger-than-Memory Store.<br>
    [[paper](https://chinkulkarni.github.io/public/shadowfax.pdf)]
+   [[code](https://github.com/microsoft/FASTER)]
 
 2. Ankit Bhardwaj, **Chinmay Kulkarni**, and Ryan Stutsman.
    Adaptive Placement for In-memory Storage Functions.
