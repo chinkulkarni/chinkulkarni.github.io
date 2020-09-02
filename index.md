@@ -23,9 +23,6 @@ I am a fifth year PhD student advised by [Ryan Stutsman](http://rstutsman.github
 at the [University of Utah](http://www.cs.utah.edu/). I enjoy designing,
 building, and evaluating large scale systems.
 
-I am also a student researcher with the [Slicer](https://www.usenix.org/system/files/conference/osdi16/osdi16-adya.pdf) team
-at [Google](https://about.google).
-
 I am generously supported by a [Google PhD fellowship](
 https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html).
 
