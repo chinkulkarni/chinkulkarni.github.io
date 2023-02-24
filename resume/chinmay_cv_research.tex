@@ -60,7 +60,7 @@
  \begin{tabular}{@{}p{5.5in}p{4in}}
  {\bf \href{http://www.cse.iitb.ac.in/}{Indian Institute of
  Technology Bombay}} \dotfill Bombay, India
- \\ {\small Master of Technology in Computer Science, June 2016} \\
+ \\ {\small Master of Technology in Computer Science, August 2016} \\
  {\small \emph{Thesis: Mitigating Busy Waiting in SMP Virtual Machines}}\\
  {\small Advised by Prof. Purushottam Kulkarni}
  \end{tabular}
@@ -69,20 +69,45 @@
  \begin{tabular}{@{}p{5.5in}p{4in}}
  {\bf \href{http://www.ece.nitk.ac.in/}{National Institute of
  Technology}} \dotfill Surathkal, India
- \\ {\small Bachelor of Technology in Electronics and Communication, May 2013}
+ \\ {\small Bachelor of Technology in Electronics and Communication, November 2013}
  \end{tabular}
 
 \section{\sc Experience}
 \begin{tabular}{@{}p{5.5in}p{4in}}
-{\bf Lightstep} \dotfill Remote, Salt Lake City, USA \\
-{\small\em Senior Software Engineer, Summer 2021 - Present} \\
-{\small Member of the data platforms team.}\\
+{\bf Lightstep (acquired by Servicenow)} \dotfill Remote, Salt Lake City, USA \\
+{\small\em Senior Software Engineer, Data Platform Team, June 2021 - Present} \\
+{\small Currently working on improving the scalability, cost efficiency,
+and reliability of Lightstep's in-house timeseries databases (for spans,
+metrics, and traces).} \\
+
+\vspace{-1pt}
+{\small
+Notable projects:
+\begin{enumerate}
+\item Designed a query logging system to identify queries of death.
+Paired with teammate for the implementation. Reduced incident
+MTTR from hours to minutes. Logger is also now
+used to guide improvements to the query layer. Logger also powers key
+product feature that allows customers to reduce cost by identifying unused
+timeseries.
+\item Worked on a team to migrate data from spanner into an in-house
+database. Designed and built a fault-tolerant, idempotent, highly-concurrent,
+distributed ETL job for the migration. Validated data post-migration.
+Helped root cause and fix issues caused by the migration.
+Reduced yearly operating cost by 0.5 million dollars.
+\item Made contributions to the query engine and language including
+support for template variables etc. Sheparded tweaks to cluster
+autoscaler, reducing yearly operating cost by 1 million dollars.
+Built dashboards to measure unit margins. Embedded within product team
+to implement product features for alerting.
+\end{enumerate}
+}\\
 \end{tabular}
 
 \vspace{-7pt}
 \begin{tabular}{@{}p{5.5in}p{4in}}
 {\bf University of Utah} \dotfill Salt Lake City, USA \\
-{\small\em Google Ph.D Fellow, Fall 2019 - Spring 2021} \\
+{\small\em Google Ph.D Fellow, August 2019 - May 2021} \\
 {\small Designed, implemented, and evaluated a new distributed key-value
 store called Shadowfax. Shadowfax can serve 130 Million updates per
 second on Azure virtual machines, can span local as well as remote cloud
@@ -92,8 +117,7 @@ VLDB '21.}\\
 
 \vspace{-7pt}
 \begin{tabular}{@{}p{5.5in}p{4in}}
-{\small\em Research Assistant advised by Ryan Stutsman, Fall 2016 -
-Spring 2019}\\
+{\small\em Research Assistant advised by Ryan Stutsman, August 2016 - May 2019}\\
 {\small Designed, implemented, and evaluated mechanisms for
 reconfiguration and extensibility in low-latency key-value stores. Work
 published at SOSP '17 and OSDI '18.}
@@ -102,7 +126,7 @@ published at SOSP '17 and OSDI '18.}
 \vspace{-7pt}
 \begin{tabular}{@{}p{5.5in}p{4in}}
 {\bf Google} \dotfill Sunnyvale, USA \\
-{\small\em Research Intern hosted by Larry Kai, Summer 2020}\\
+{\small\em Research Intern hosted by Larry Kai, May 2020 - August 2021}\\
 {\small Worked on defining and measuring the availability of Google
 services. Designed and built a dashboard that Google engineers
 can use to visualize and monitor the availability of their service.}
@@ -111,7 +135,7 @@ can use to visualize and monitor the availability of their service.}
 \vspace{-7pt}
 \begin{tabular}{@{}p{5.5in}p{4in}}
 {\bf VMware} \dotfill Palo Alto, USA \\
-{\small\em Research Intern hosted by Gerd Zellweger, Summer 2019}\\
+{\small\em Research Intern hosted by Gerd Zellweger, May 2019 - August 2019}\\
 {\small
 Designed,
 built, tested and evaluated a Rust library that constructs a highly scalable, linearizable,
@@ -122,7 +146,7 @@ structure from a single threaded implementation.}
 \vspace{-7pt}
 \begin{tabular}{@{}p{5.5in}p{4in}}
 {\bf Microsoft} \dotfill Redmond, USA \\
-{\small\em Research Intern hosted by Badrish Chandramouli, Summer 2018}\\
+{\small\em Research Intern hosted by Badrish Chandramouli, May 2018 - August 2018}\\
 {\small Worked on an RPC layer and scale out protocol for FASTER, a
 key-value store that scales linearly across cores to service 160 million
 updates per second.}
@@ -139,7 +163,7 @@ Cisco Catalyst 6K series of switches.}
 
 \vspace{-7pt}
 \begin{tabular}{@{}p{5.5in}p{4in}}
-{\small\em Software Development Intern, Summer 2012}\\
+{\small\em Software Development Intern, May 2012 - August 2012}\\
 {\small Worked on Openstack and Openflow plugins for the
 Cisco Catalyst 6K series of switches.}
 \end{tabular}
@@ -228,6 +252,12 @@ Environment}\\
 
 \section{\sc Talks and Posters}
 \begin{tabular}{@{}p{5.5in}p{4in}}
+{\bf Achieving High Throughput and Elasticity in a Larger-than-Memory Store}\\
+{\small\em VLDB 2021, Copenhagen, Denmark}\\
+\end{tabular}
+
+\vspace{-7pt}
+\begin{tabular}{@{}p{5.5in}p{4in}}
 {\bf Reconfiguration and Extensibility for Low-Latency Key-Value Stores}\\
 {\small\em PhD Defense, 2021, University of Utah, Salt Lake City, Utah, USA}\\
 \end{tabular}
@@ -270,7 +300,7 @@ USA}\\
 
 \section{\sc Skills}
 \begin{tabular}{@{}p{5.5in}p{4in}}
-Rust, Python, R, C++, Kernel-bypass networking, Lock-free programming
+Go, Rust, Python, R, C++, Kubernetes, Kernel-bypass networking, Lock-free programming
 \end{tabular}
 
 \end{resume}
